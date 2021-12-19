@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🏡 I'm a backend software developer based in Poznań, Poland.
+- 👨‍💻 The programming languages I'm currently enjoying are Ruby and Elixir.
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/warpas/)
+
 <!--
 **warpas/warpas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
